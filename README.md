@@ -68,7 +68,9 @@ I build web applications, backend systems, REST APIs, and database-driven soluti
 
 ## Featured Projects
 
-### 1. RIIZQ — Mening Fermam riizq.uz
+### 1. [RIIZQ — Mening Fermam](https://riizq.uz)
+
+[🌐 Visit Website](https://riizq.uz)
 
 A farm management platform designed to help farmers manage livestock, veterinary records, medicines, and inventory.
 
